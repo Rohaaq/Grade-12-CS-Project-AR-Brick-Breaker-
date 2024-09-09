@@ -2,6 +2,8 @@
 
 This is my final project for my Grade 12 Computer Science class, exploring virtual reality (VR) and hand-tracking technologies. Being passionate about VR, I aimed to get practical experience by implementing a project using computer vision and hand-tracking libraries to interact with a virtual environment.
 
+The actual project can be tried [here](https://colab.research.google.com/github/Rohaaq/Grade-12-CS-Project-AR-Brick-Breaker-/blob/main/Hand_Tracked_Environment_Explorer_GR12CS_Project.ipynb).
+
 ## Project Overview
 
 The project began with a large vision, and I sought to explore how far I could take it with the time and resources I had available. Much of the project was a learning curve—getting acquainted with Google Colab, SDKs, and libraries I hadn't used before. The attached documents (Project Design and Project Requirements) provide further insights into the process and goals. They can be found in the project files.
